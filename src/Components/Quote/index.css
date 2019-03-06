@@ -1,0 +1,14 @@
+.quote {
+  margin: 2% 12%;
+  text-align: center;
+  box-shadow: 2px 2px 2px gray;
+}
+.quote-content {
+  font-size: 20px;
+}
+
+.quote-author {
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 2%;
+}

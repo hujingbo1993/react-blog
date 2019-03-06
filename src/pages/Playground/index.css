@@ -1,0 +1,17 @@
+.playground-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  justify-content: space-between;
+  margin: 2% auto;
+}
+.playground-list-itme img {
+  width: 500px;
+  height: 300px;
+}
+
+.playground-list-itme {
+  width: 500px;
+  box-sizing: border-box;
+}
